@@ -1,0 +1,245 @@
+Biomedical Engineering
+--------------------------------------------------
+59.	Ziaur Rahman	Adamjee Cantonment College
+63.	Tapash Baisya	Adamjee Cantonment College
+68.	Rishad Hossain	Rajuk Uttara Model College
+73.	Hannans Sarkar	Adamjee Cantonment College
+77.	Ritu Porna	Eden Mohila College
+87.	Mohammad Naim	Notre Dame College
+90.	Pooja Roy	Badrunnesa Government Girls College
+93.	Delwar Hossain	Adamjee Cantonment College
+94.	Khaled Ahmed	Notre Dame College
+96.	Sabrina Yasmin	Badrunnesa Government Girls College
+97.	Sohag Gazi	Rajuk Uttara Model College
+102.	Mahbubul Alam	Notre Dame College
+
+
+Civil Engineering
+--------------------------------------------------
+5.	Kazi Nazrul Islam	Dhaka Residential Model College
+13.	Naeem Islam	Adamjee Cantonment College
+18.	Shamim Hossain	Adamjee Cantonment College
+27.	Sanwar Hossain	Dhaka Residential Model College
+30.	Sabbir Ahmed	Dhaka College
+43.	Abu Hider	Adamjee Cantonment College
+45.	Mohammad Sharif	Dhaka Residential Model College
+53.	Zakir Hasan	Adamjee Cantonment College
+55.	Khadija Begum	Eden Mohila College
+56.	Rezaur Rahman	Rajuk Uttara Model College
+61.	Tushar Imran	Dhaka College
+62.	Arafat Sunny	Rajuk Uttara Model College
+64.	Mosaddek Hossain	Dhaka Residential Model College
+67.	Mumu Chowdhury	Badrunnesa Government Girls College
+71.	Nazmul Islam	Rajuk Uttara Model College
+85.	Tanjina Akter	Eden Mohila College
+86.	Tamim Iqbal	Notre Dame College
+89.	Mst Selina	Eden Mohila College
+
+
+Computer Science and Engineering
+--------------------------------------------------
+2.	Mizanur Rahman	Dhaka College
+3.	Mahmudul Hasan	Dhaka Residential Model College
+4.	Monir Hossain	Dhaka Residential Model College
+6.	Shafiul Islam	Dhaka Residential Model College
+7.	Al Amin Hossain	Dhaka College
+8.	Tariqul Islam	Dhaka Residential Model College
+10.	Rubel Hossain	Adamjee Cantonment College
+12.	Jahurul Islam	Notre Dame College
+14.	Robiul Islam	Adamjee Cantonment College
+16.	Rony Talukdar	Dhaka Residential Model College
+17.	Sabbir Rahman	Dhaka College
+19.	Asif Mahmud	Dhaka Residential Model College
+20.	Naimur Rahman	Adamjee Cantonment College
+21.	Nurul Hasan	Dhaka College
+23.	Sunzamul Islam	Dhaka College
+25.	Jaker Ali	Notre Dame College
+26.	Jubair Hossain	Dhaka Residential Model College
+28.	Zahid Hasan	Dhaka College
+29.	Rajin Saleh	Rajuk Uttara Model College
+31.	Yasir Ali	Dhaka College
+
+
+Electronics and Communication Engineering
+--------------------------------------------------
+54.	Kamrul Islam	Dhaka Residential Model College
+58.	Raqibul Hasan	Dhaka Residential Model College
+60.	Nafees Iqbal	Notre Dame College
+70.	Mosharraf Hossain	Dhaka College
+81.	Nazmul Hossain	Notre Dame College
+84.	Tanzim Hasan	Dhaka Residential Model College
+88.	Tahmina Akter	Badrunnesa Government Girls College
+108.	Nasum Ahmed	Notre Dame College
+109.	Samira Haque	Holy Cross College
+112.	Shoyeb Akhtar	Notre Dame College
+116.	Faisal Hossain	Adamjee Cantonment College
+117.	Shamima Nasrin	Badrunnesa Government Girls College
+
+
+Electrical and Electronic Engineering
+--------------------------------------------------
+1.	Litondash Roy	Adamjee Cantonment College
+9.	Muktar Ali	Rajuk Uttara Model College
+11.	Talha Jubair	Dhaka College
+22.	Imrul Kayes	Adamjee Cantonment College
+24.	Anamul Haque	Dhaka College
+32.	Sujon Roy	Dhaka Residential Model College
+34.	Shahadat Hossain	Notre Dame College
+36.	Mukidul Islam	Dhaka Residential Model College
+38.	Ebadot Hossain	Dhaka Residential Model College
+39.	Fazle Mahmud	Dhaka College
+40.	Taijul Islam	Dhaka College
+41.	Shuvagata Hom	Dhaka Residential Model College
+42.	Dhiman Ghosh	Dhaka College
+44.	Mushfiqur Rahim	Dhaka College
+46.	Sanjamul Islam	Notre Dame College
+47.	Suhrawadi Shuvo	Notre Dame College
+49.	Mehedi Hasan	Rajuk Uttara Model College
+50.	Manjural Islam	Notre Dame College
+51.	Alok Kapali	Rajuk Uttara Model College
+52.	Arafat Rahman	Rajuk Uttara Model College
+
+
+Glass and Ceramic Engineering
+--------------------------------------------------
+165.	Nusrat Imrose	Viqarunnisa Noon College
+169.	Farhana Alam	Holy Cross College
+176.	Sharmin Akter	Viqarunnisa Noon College
+177.	Khadiza Khatun	Holy Cross College
+178.	Nigar Sultana	Holy Cross College
+179.	Lamia Islam	Holy Cross College
+180.	Habiba Sultana	Eden Mohila College
+
+
+Industrial and Production Engineering
+--------------------------------------------------
+91.	Jaharat Begum	Badrunnesa Government Girls College
+92.	Dilara Begum	Eden Mohila College
+95.	Rahim Ahmed	Dhaka College
+98.	Nayla Chowdhury	Badrunnesa Government Girls College
+101.	Shorifa Khatun	Eden Mohila College
+103.	Taskin Ahmed	Rajuk Uttara Model College
+104.	Lata Mondal	Eden Mohila College
+105.	Mehrab Hossain	Dhaka College
+106.	Sultana Razia	Badrunnesa Government Girls College
+107.	Hasan Mahmud	Notre Dame College
+110.	Zubayer Hossain	Rajuk Uttara Model College
+111.	Parvez Hossain	Rajuk Uttara Model College
+113.	Sumaiya Yasmin	Badrunnesa Government Girls College
+114.	Dilruba Yasmin	Badrunnesa Government Girls College
+115.	Jannatara Begum	Badrunnesa Government Girls College
+
+
+Mechanical Engineering
+--------------------------------------------------
+15.	Afif Hossain	Adamjee Cantonment College
+33.	Fahim Mahmud	Notre Dame College
+35.	Tanvir Hossain	Notre Dame College
+37.	Sanjit Saha	Rajuk Uttara Model College
+48.	Mst Rabeya	Eden Mohila College
+57.	Soumya Sarkar	Dhaka College
+65.	Rokeya Begum	Eden Mohila College
+66.	Arifur Rahman	Notre Dame College
+69.	Shakib Al Hasan	Rajuk Uttara Model College
+72.	Umme Kulsum	Eden Mohila College
+74.	Khaleda Akhtar	Badrunnesa Government Girls College
+75.	Sayeda Begum	Eden Mohila College
+76.	Jahatara Begum	Eden Mohila College
+78.	Shahriar Naeem	Dhaka College
+79.	Shirin Akter	Eden Mohila College
+80.	Shoriful Islam	Rajuk Uttara Model College
+82.	Nazma Begum	Badrunnesa Government Girls College
+83.	Rina Akter	Eden Mohila College
+
+
+Materials and Metallurgical Engineering
+--------------------------------------------------
+167.	Mahmuda Khatun	Holy Cross College
+168.	Tanzila Islam	Viqarunnisa Noon College
+170.	Sadia Sultana	Holy Cross College
+171.	Sabrina Khan	Viqarunnisa Noon College
+172.	Mousumi Akter	Holy Cross College
+173.	Zarin Tasnim	Holy Cross College
+174.	Ayesha Siddiqua	Ideal School and College
+175.	Sadia Islam	Holy Cross College
+
+
+Naval Architecture and Marine Engineering
+--------------------------------------------------
+130.	Nasrin Akter	Badrunnesa Government Girls College
+135.	Ayesha Siddika	Holy Cross College
+136.	Farhana Yasmin	Viqarunnisa Noon College
+137.	Mariya Khan	Eden Mohila College
+139.	Tamanna Yasmin	Badrunnesa Government Girls College
+141.	Faria Hossain	Holy Cross College
+144.	Nigar Sultana	Eden Mohila College
+147.	Panna Ghosh	Holy Cross College
+
+
+Nuclear Engineering
+--------------------------------------------------
+181.	Jannatul Ferdous	Holy Cross College
+182.	Sumaiya Akter	Eden Mohila College
+183.	Mithila Farzana	Viqarunnisa Noon College
+184.	Fariha Chowdhury	Holy Cross College
+185.	Suraiya Yeasmin	Holy Cross College
+
+
+Petroleum and Mining Engineering
+--------------------------------------------------
+154.	Farzana Yeasmin	Viqarunnisa Noon College
+155.	Farzana Bobby	Viqarunnisa Noon College
+157.	Salma Sultana	Holy Cross College
+158.	Aysha Akhtar	Viqarunnisa Noon College
+160.	Tahmina Parvin	Holy Cross College
+161.	Tasmia Rahman	Viqarunnisa Noon College
+162.	Sultana Yasmin	Viqarunnisa Noon College
+163.	Mst Sharmin	Viqarunnisa Noon College
+164.	Ruksana Parvin	Viqarunnisa Noon College
+166.	Tanzia Parvin	Holy Cross College
+
+
+Textile Engineering
+--------------------------------------------------
+118.	Taskina Begum	Badrunnesa Government Girls College
+119.	Suraiya Begum	Badrunnesa Government Girls College
+120.	Towhid Hridoy	Notre Dame College
+121.	Hasan Ali	Rajuk Uttara Model College
+122.	Abdur Razzak	Dhaka College
+124.	Fariha Sultana	Viqarunnisa Noon College
+126.	Riya Sen	Viqarunnisa Noon College
+127.	Mahedi Hasan	Rajuk Uttara Model College
+129.	Ariful Haque	Adamjee Cantonment College
+131.	Liton Kumar	Notre Dame College
+132.	Tashfia Tanzim	Eden Mohila College
+133.	Jahatara Khatun	Holy Cross College
+
+
+Urban and Regional Planning
+--------------------------------------------------
+99.	Tanvir Islam	Adamjee Cantonment College
+100.	Sadia Islam	Viqarunnisa Noon College
+125.	Sabbir Hossain	Adamjee Cantonment College
+134.	Sharmin Sultana	Badrunnesa Government Girls College
+140.	Nusrat Jahan	Holy Cross College
+150.	Kazi Rownak	Rajuk Uttara Model College
+151.	Nabila Rahman	Ideal School and College
+152.	Anika Kabir	Viqarunnisa Noon College
+156.	Afrin Sultana	Eden Mohila College
+159.	Mehnaz Tabassum	Holy Cross College
+
+
+Water Resources Engineering
+--------------------------------------------------
+123.	Salma Khatun	Holy Cross College
+128.	Mustafizur Rahman	Notre Dame College
+138.	Rumpa Das	Viqarunnisa Noon College
+142.	Nusrat Parveen	Viqarunnisa Noon College
+143.	Najmul Hossain	Notre Dame College
+145.	Razia Sultana	Viqarunnisa Noon College
+146.	Meherun Nesa	Holy Cross College
+148.	Fahmida Khan	Holy Cross College
+149.	Farah Naz	Viqarunnisa Noon College
+153.	Sabrina Parveen	Holy Cross College
+
+

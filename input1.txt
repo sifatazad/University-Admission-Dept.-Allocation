@@ -1,0 +1,196 @@
+148201	Rahim Ahmed	4.85	Dhaka College
+829104	Sadia Islam	5.00	Viqarunnisa Noon College
+394812	Tanvir Hossain	4.50	Notre Dame College
+710293	Nusrat Jahan	4.75	Holy Cross College
+519284	Shakib Al Hasan	4.90	Rajuk Uttara Model College
+628193	Ayesha Siddiqua	5.00	Ideal School and College
+918273	Mahmudul Hasan	4.25	Dhaka Residential Model College
+283910	Fariha Sultana	4.60	Viqarunnisa Noon College
+472819	Arifur Rahman	4.80	Notre Dame College
+839102	Mehnaz Tabassum	4.95	Holy Cross College
+192837	Sabbir Ahmed	3.90	Dhaka College
+638291	Taskin Ahmed	4.40	Rajuk Uttara Model College
+748291	Sumaiya Akter	4.70	Eden Mohila College
+291827	Naimur Rahman	4.10	Adamjee Cantonment College
+849201	Sharmin Sultana	4.85	Badrunnesa Government Girls College
+502918	Tamim Iqbal	5.00	Notre Dame College
+382910	Anika Kabir	4.65	Viqarunnisa Noon College
+928174	Mushfiqur Rahim	4.90	Dhaka College
+619283	Jannatul Ferdous	5.00	Holy Cross College
+102938	Kazi Nazrul Islam	4.30	Dhaka Residential Model College
+491029	Ritu Porna	4.15	Eden Mohila College
+839281	Zubayer Hossain	4.45	Rajuk Uttara Model College
+294810	Nabila Rahman	4.80	Ideal School and College
+738291	Fahim Mahmud	4.60	Notre Dame College
+582910	Sabrina Yasmin	4.20	Badrunnesa Government Girls College
+910283	Soumya Sarkar	4.35	Dhaka College
+381920	Mithila Farzana	4.90	Viqarunnisa Noon College
+629182	Litondash Roy	4.55	Adamjee Cantonment College
+482910	Khadija Begum	4.00	Eden Mohila College
+718293	Mustafizur Rahman	4.75	Notre Dame College
+829301	Farhana Alam	4.85	Holy Cross College
+192039	Mehedi Hasan	4.40	Rajuk Uttara Model College
+592817	Riya Sen	4.65	Viqarunnisa Noon College
+384729	Asif Mahmud	4.30	Dhaka Residential Model College
+928301	Lamia Islam	4.95	Holy Cross College
+671029	Shahriar Naeem	4.10	Dhaka College
+293847	Tashfia Tanzim	4.70	Eden Mohila College
+819203	Imrul Kayes	4.25	Adamjee Cantonment College
+501928	Pooja Roy	4.50	Badrunnesa Government Girls College
+392817	Najmul Hossain	4.80	Notre Dame College
+748392	Maria Ahmed	5.00	Viqarunnisa Noon College
+109283	Ebadot Hossain	4.15	Dhaka Residential Model College
+629384	Samira Haque	4.60	Holy Cross College
+839120	Shoriful Islam	4.35	Rajuk Uttara Model College
+492817	Afrin Sultana	4.80	Eden Mohila College
+291039	Taijul Islam	4.45	Dhaka College
+739201	Nusrat Imrose	4.90	Viqarunnisa Noon College
+510293	Hasan Mahmud	4.70	Notre Dame College
+829103	Mumu Chowdhury	4.50	Badrunnesa Government Girls College
+392019	Afif Hossain	4.20	Adamjee Cantonment College
+619284	Kazi Rownak	4.85	Rajuk Uttara Model College
+928103	Ayesha Siddika	4.60	Holy Cross College
+182930	Nurul Hasan	4.10	Dhaka College
+483920	Sadiya Rahman	4.95	Viqarunnisa Noon College
+729102	Mosaddek Hossain	4.30	Dhaka Residential Model College
+301928	Tanjina Akter	4.40	Eden Mohila College
+829182	Liton Kumar	4.75	Notre Dame College
+592019	Zarin Tasnim	4.80	Holy Cross College
+918203	Rubel Hossain	4.05	Adamjee Cantonment College
+283019	Dilruba Yasmin	4.50	Badrunnesa Government Girls College
+692810	Rishad Hossain	4.65	Rajuk Uttara Model College
+402918	Farzana Yeasmin	4.90	Viqarunnisa Noon College
+810293	Towhid Hridoy	4.85	Notre Dame College
+192847	Mst Rabeya	4.25	Eden Mohila College
+739102	Anamul Haque	4.15	Dhaka College
+391029	Khadiza Khatun	4.70	Holy Cross College
+582019	Tanzim Hasan	4.40	Dhaka Residential Model College
+920193	Sultana Razia	4.60	Badrunnesa Government Girls College
+281039	Shamim Hossain	4.35	Adamjee Cantonment College
+620192	Farah Naz	4.80	Viqarunnisa Noon College
+839019	Nasum Ahmed	4.50	Notre Dame College
+491820	Suraiya Yeasmin	4.95	Holy Cross College
+710294	Sabbir Rahman	4.20	Dhaka College
+302918	Umme Kulsum	4.10	Eden Mohila College
+928104	Mahedi Hasan	4.60	Rajuk Uttara Model College
+182039	Aysha Akhtar	4.75	Viqarunnisa Noon College
+592810	Sujon Roy	4.30	Dhaka Residential Model College
+830192	Tamanna Yasmin	4.85	Badrunnesa Government Girls College
+291830	Zakir Hasan	4.45	Adamjee Cantonment College
+719203	Salma Khatun	4.65	Holy Cross College
+482019	Mohammad Naim	4.50	Notre Dame College
+902918	Bipasha Sen	4.90	Viqarunnisa Noon College
+619028	Mizanur Rahman	4.00	Dhaka College
+382019	Nigar Sultana	4.70	Eden Mohila College
+829105	Rezaur Rahman	4.25	Rajuk Uttara Model College
+501829	Mousumi Akter	4.80	Holy Cross College
+293019	Rony Talukdar	4.15	Dhaka Residential Model College
+738190	Sumaiya Yasmin	4.55	Badrunnesa Government Girls College
+410293	Tanvir Islam	4.60	Adamjee Cantonment College
+928105	Sadia Afrin	5.00	Viqarunnisa Noon College
+182940	Jaker Ali	4.35	Notre Dame College
+629103	Shirin Akter	4.40	Eden Mohila College
+839201	Yasir Ali	4.10	Dhaka College
+502938	Fahmida Khan	4.95	Holy Cross College
+391820	Parvez Hossain	4.65	Rajuk Uttara Model College
+728190	Sharmin Akter	4.80	Viqarunnisa Noon College
+918204	Kamrul Islam	4.50	Dhaka Residential Model College
+281920	Nazma Begum	4.20	Badrunnesa Government Girls College
+602918	Robiul Islam	4.30	Adamjee Cantonment College
+481920	Tahmina Parvin	4.85	Holy Cross College
+839104	Shoyeb Akhtar	4.75	Notre Dame College
+192040	Rumpa Das	4.60	Viqarunnisa Noon College
+719284	Al Amin Hossain	4.05	Dhaka College
+382901	Habiba Sultana	4.90	Eden Mohila College
+920183	Arafat Sunny	4.40	Rajuk Uttara Model College
+581029	Jannatara Begum	4.50	Badrunnesa Government Girls College
+291040	Mukidul Islam	4.25	Dhaka Residential Model College
+829019	Sabrina Parveen	4.80	Holy Cross College
+402819	Abu Hider	4.15	Adamjee Cantonment College
+682910	Rifa Tasnia	4.95	Viqarunnisa Noon College
+918302	Khaled Ahmed	4.70	Notre Dame College
+301929	Sayeda Begum	4.30	Eden Mohila College
+729104	Sunzamul Islam	4.20	Dhaka College
+182041	Mahmuda Khatun	4.85	Holy Cross College
+592819	Hasan Ali	4.60	Rajuk Uttara Model College
+839020	Farhana Yasmin	4.75	Viqarunnisa Noon College
+291840	Shafiul Islam	4.10	Dhaka Residential Model College
+628103	Nayla Chowdhury	4.45	Badrunnesa Government Girls College
+419203	Ariful Haque	4.55	Adamjee Cantonment College
+902819	Zeenat Aman	5.00	Holy Cross College
+182941	Sanjamul Islam	4.35	Notre Dame College
+738201	Shorifa Khatun	4.65	Eden Mohila College
+392018	Zahid Hasan	4.25	Dhaka College
+829106	Farzana Bobby	4.80	Viqarunnisa Noon College
+501929	Nazmul Islam	4.40	Rajuk Uttara Model College
+928106	Taskina Begum	4.50	Badrunnesa Government Girls College
+281041	Monir Hossain	4.00	Dhaka Residential Model College
+619203	Sadia Islam	4.90	Holy Cross College
+482901	Sabbir Hossain	4.60	Adamjee Cantonment College
+839105	Ruksana Parvin	4.85	Viqarunnisa Noon College
+192041	Suhrawadi Shuvo	4.15	Notre Dame College
+729105	Mariya Khan	4.70	Eden Mohila College
+382902	Mosharraf Hossain	4.30	Dhaka College
+918205	Sharmin Nahar	4.95	Holy Cross College
+581030	Sohag Gazi	4.45	Rajuk Uttara Model College
+291041	Nasrin Akter	4.60	Badrunnesa Government Girls College
+829020	Jubair Hossain	4.20	Dhaka Residential Model College
+402820	Tanzila Islam	4.80	Viqarunnisa Noon College
+682911	Delwar Hossain	4.50	Adamjee Cantonment College
+918303	Meherun Nesa	4.75	Holy Cross College
+301930	Shahadat Hossain	4.10	Notre Dame College
+729106	Rina Akter	4.35	Eden Mohila College
+182042	Fazle Mahmud	4.25	Dhaka College
+592820	Kaniz Fatima	4.90	Viqarunnisa Noon College
+839021	Muktar Ali	4.05	Rajuk Uttara Model College
+291841	Suraiya Begum	4.65	Badrunnesa Government Girls College
+628104	Raqibul Hasan	4.40	Dhaka Residential Model College
+419204	Salma Sultana	4.85	Holy Cross College
+902820	Naeem Islam	4.15	Adamjee Cantonment College
+182942	Tasmia Rahman	4.80	Viqarunnisa Noon College
+738202	Mahbubul Alam	4.55	Notre Dame College
+392020	Rokeya Begum	4.30	Eden Mohila College
+829107	Jahatara Khatun	4.70	Holy Cross College
+501930	Abdur Razzak	4.60	Dhaka College
+928107	Rumana Ahmed	4.95	Viqarunnisa Noon College
+281042	Sanjit Saha	4.20	Rajuk Uttara Model College
+619204	Tahmina Akter	4.50	Badrunnesa Government Girls College
+482902	Jahatara Begum	4.40	Eden Mohila College
+839106	Shuvagata Hom	4.25	Dhaka Residential Model College
+192042	Nigar Sultana	4.80	Holy Cross College
+729107	Ziaur Rahman	4.35	Adamjee Cantonment College
+382903	Sultana Yasmin	4.90	Viqarunnisa Noon College
+918206	Jahurul Islam	4.10	Notre Dame College
+581031	Faria Hossain	4.75	Holy Cross College
+291042	Mehrab Hossain	4.45	Dhaka College
+829021	Shamima Nasrin	4.65	Badrunnesa Government Girls College
+402821	Arafat Rahman	4.30	Rajuk Uttara Model College
+682912	Sabrina Khan	4.85	Viqarunnisa Noon College
+918304	Sanwar Hossain	4.15	Dhaka Residential Model College
+301931	Dilara Begum	4.60	Eden Mohila College
+729108	Tapash Baisya	4.50	Adamjee Cantonment College
+182043	Fariha Chowdhury	4.95	Holy Cross College
+592821	Nazmul Hossain	4.40	Notre Dame College
+839022	Razia Sultana	4.70	Viqarunnisa Noon College
+291842	Dhiman Ghosh	4.20	Dhaka College
+628105	Tanzia Parvin	4.80	Holy Cross College
+419205	Alok Kapali	4.25	Rajuk Uttara Model College
+902821	Mst Selina	4.35	Eden Mohila College
+182943	Tariqul Islam	4.10	Dhaka Residential Model College
+738203	Shaila Sharmin	4.90	Viqarunnisa Noon College
+392021	Faisal Hossain	4.60	Adamjee Cantonment College
+829108	Khaleda Akhtar	4.50	Badrunnesa Government Girls College
+501931	Manjural Islam	4.30	Notre Dame College
+928108	Sadia Sultana	4.85	Holy Cross College
+281043	Tushar Imran	4.45	Dhaka College
+619205	Nusrat Parveen	4.75	Viqarunnisa Noon College
+482903	Rajin Saleh	4.15	Rajuk Uttara Model College
+839107	Lata Mondal	4.65	Eden Mohila College
+192043	Mohammad Sharif	4.20	Dhaka Residential Model College
+729109	Jaharat Begum	4.55	Badrunnesa Government Girls College
+382904	Hannans Sarkar	4.40	Adamjee Cantonment College
+918207	Jannatun Nayeem	5.00	Holy Cross College
+581032	Nafees Iqbal	4.35	Notre Dame College
+291043	Mst Sharmin	4.80	Viqarunnisa Noon College
+829022	Talha Jubair	4.10	Dhaka College
+402822	Panna Ghosh	4.70	Holy Cross College

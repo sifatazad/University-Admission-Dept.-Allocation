@@ -1,0 +1,15 @@
+CSE	Computer Science and Engineering
+EEE	Electrical and Electronic Engineering
+ME	Mechanical Engineering
+CE	Civil Engineering
+IPE	Industrial and Production Engineering
+BME	Biomedical Engineering
+ECE	Electronics and Communication Engineering
+TE	Textile Engineering
+URP	Urban and Regional Planning
+WRE	Water Resources Engineering
+PME	Petroleum and Mining Engineering
+NAME	Naval Architecture and Marine Engineering
+MSE	Materials and Metallurgical Engineering
+GCE	Glass and Ceramic Engineering
+NE	Nuclear Engineering
